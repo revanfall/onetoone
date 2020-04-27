@@ -1,0 +1,13 @@
+C:\Users\Ilya\source\repos\onetoone\onetoone\bin\Debug\onetoone.exe.config
+C:\Users\Ilya\source\repos\onetoone\onetoone\bin\Debug\onetoone.exe
+C:\Users\Ilya\source\repos\onetoone\onetoone\bin\Debug\onetoone.pdb
+C:\Users\Ilya\source\repos\onetoone\onetoone\bin\Debug\EntityFramework.dll
+C:\Users\Ilya\source\repos\onetoone\onetoone\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Ilya\source\repos\onetoone\onetoone\bin\Debug\EntityFramework.xml
+C:\Users\Ilya\source\repos\onetoone\onetoone\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Ilya\source\repos\onetoone\onetoone\obj\Debug\onetoone.csprojAssemblyReference.cache
+C:\Users\Ilya\source\repos\onetoone\onetoone\obj\Debug\onetoone.csproj.CoreCompileInputs.cache
+C:\Users\Ilya\source\repos\onetoone\onetoone\obj\Debug\onetoone.csproj.CopyComplete
+C:\Users\Ilya\source\repos\onetoone\onetoone\obj\Debug\onetoone.exe
+C:\Users\Ilya\source\repos\onetoone\onetoone\obj\Debug\onetoone.pdb
+C:\Users\Ilya\source\repos\onetoone\onetoone\obj\Debug\onetoone.sourcelink.json
